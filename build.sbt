@@ -23,7 +23,7 @@ val catsV = "2.9.0"
 val catsEffectV = "3.5.0"
 val fs2V = "3.7.0"
 val http4sV = "0.23.18"
-val log4catsV = "2.6.0"
+val log4catsV = "2.7.0"
 
 
 val munitCatsEffectV = "2.0.0-M3"
