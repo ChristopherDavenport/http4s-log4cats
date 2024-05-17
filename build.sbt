@@ -26,7 +26,7 @@ val http4sV = "0.23.18"
 val log4catsV = "2.6.0"
 
 
-val munitCatsEffectV = "2.0.0-M3"
+val munitCatsEffectV = "2.0.0-RC1"
 
 
 // Projects
